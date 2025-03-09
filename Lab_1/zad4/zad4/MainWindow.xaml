@@ -1,0 +1,15 @@
+﻿<Window x:Class="zad4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Activated="Window_Activated">
+    <Grid>
+        <TextBlock x:Name="txtPytanie" HorizontalAlignment="Center" Margin="0,51,0,0" TextWrapping="Wrap" Text="Pytania" VerticalAlignment="Top" Height="100" Width="683" Background="#FF9DCA94"/>
+        <Button x:Name="btnSprawdź" Content="Sprawdź" HorizontalAlignment="Left" Margin="459,323,0,0" VerticalAlignment="Top" Height="55" Width="99" Click="btnSprawdź_Click"/>
+        <Button x:Name="btnNastępny" Content="Następny" HorizontalAlignment="Left" Margin="242,322,0,0" VerticalAlignment="Top" Height="56" Width="99" Click="btnNastępny_Click"/>
+        <StackPanel x:Name="stkOdpowiedzi" Margin="242,156,242,150" Background="#FFF5B3B3"/>
+    </Grid>
+</Window>
