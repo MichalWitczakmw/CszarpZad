@@ -1,75 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9C1D57-9A65-4CF5-AE65-0EB661B2AAFE}|zad1\\zad1.csproj|c:\\users\\micha\u0142\\documents\\github\\cszarpzad\\lab_1\\zad1\\zad1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9C1D57-9A65-4CF5-AE65-0EB661B2AAFE}|zad1\\zad1.csproj|solutionrelative:zad1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9C1D57-9A65-4CF5-AE65-0EB661B2AAFE}|zad1\\zad1.csproj|c:\\users\\micha\u0142\\documents\\github\\cszarpzad\\lab_1\\zad1\\zad1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF9C1D57-9A65-4CF5-AE65-0EB661B2AAFE}|zad1\\zad1.csproj|solutionrelative:zad1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9C1D57-9A65-4CF5-AE65-0EB661B2AAFE}|zad1\\zad1.csproj|c:\\users\\micha\u0142\\documents\\github\\cszarpzad\\lab_1\\zad1\\zad1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF9C1D57-9A65-4CF5-AE65-0EB661B2AAFE}|zad1\\zad1.csproj|solutionrelative:zad1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\zad1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "zad1\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\zad1\\MainWindow.xaml",
-              "RelativeToolTip": "zad1\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-09T17:29:33.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\zad1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "zad1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\zad1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "zad1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAwEAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:29:28.83Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\zad1\\App.xaml",
-              "RelativeDocumentMoniker": "zad1\\App.xaml",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad1\\zad1\\App.xaml",
-              "RelativeToolTip": "zad1\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-09T18:13:13.62Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
