@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD9FB0A-E0ED-47FE-A39A-E49A32E61E3D}|zad3\\zad3.csproj|c:\\users\\micha\u0142\\documents\\github\\cszarpzad\\lab_1\\zad3\\zad3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD9FB0A-E0ED-47FE-A39A-E49A32E61E3D}|zad3\\zad3.csproj|solutionrelative:zad3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD9FB0A-E0ED-47FE-A39A-E49A32E61E3D}|zad3\\zad3.csproj|c:\\users\\micha\u0142\\documents\\github\\cszarpzad\\lab_1\\zad3\\zad3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCD9FB0A-E0ED-47FE-A39A-E49A32E61E3D}|zad3\\zad3.csproj|solutionrelative:zad3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad3\\zad3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zad3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad3\\zad3\\MainWindow.xaml",
+              "RelativeToolTip": "zad3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T18:50:40.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad3\\zad3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zad3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\CszarpZad\\Lab_1\\zad3\\zad3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zad3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:50:35.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

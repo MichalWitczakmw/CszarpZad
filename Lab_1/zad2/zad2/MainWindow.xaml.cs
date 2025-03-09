@@ -21,6 +21,9 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
+    /* 
+     * 2. Narysować przy pomocy pętli for i klasy Rectangle na kontenerze Canvas piramidę schodkową.
+    */
 
     private void RysujPiramideschodkowa(object sender, EventArgs e)
     {
@@ -44,8 +47,8 @@ public partial class MainWindow : Window
             }
         }
         */
-        // SKALUJE SIE DO CANVAS
-        double canvasWidth = cnvPiramida.ActualWidth;
+    // SKALUJE SIE DO CANVAS
+    double canvasWidth = cnvPiramida.ActualWidth;
         double canvasHeight = cnvPiramida.ActualHeight;
         int levels = 10; // Liczba poziomów piramidy
         double baseHeight = canvasHeight / levels; // Wysokość każdego poziomu

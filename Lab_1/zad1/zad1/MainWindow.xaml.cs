@@ -20,7 +20,11 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
-
+    /*
+     1. Stworzyć aplikację WPF obliczającą pierwiastki równania kwadratowego. 
+    Zabezpieczyć przedniepoprawnymi danymi. Ukrywać niepotrzebne w danym kontekście kontrolki. 
+    Do rozmieszczenia kontrolek na okne proszę użyć kontenerów StackPanel.
+    */
     double LiczDelte(double a, double b, double c)
     {
         return b * b - 4 * a * c;
