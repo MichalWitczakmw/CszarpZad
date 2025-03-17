@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad3A", "zad3A\zad3A.csproj", "{5488EC7A-79D7-4918-9B8D-A957BF9315CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motoryzacja", "Motoryzacja\Motoryzacja.csproj", "{AEC3B051-3B55-4632-BFD4-99A6C5B18039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5488EC7A-79D7-4918-9B8D-A957BF9315CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5488EC7A-79D7-4918-9B8D-A957BF9315CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5488EC7A-79D7-4918-9B8D-A957BF9315CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5488EC7A-79D7-4918-9B8D-A957BF9315CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC3B051-3B55-4632-BFD4-99A6C5B18039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC3B051-3B55-4632-BFD4-99A6C5B18039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC3B051-3B55-4632-BFD4-99A6C5B18039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC3B051-3B55-4632-BFD4-99A6C5B18039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607D6D18-0B31-4CC9-8964-F05CB127D0B0}
+	EndGlobalSection
+EndGlobal
