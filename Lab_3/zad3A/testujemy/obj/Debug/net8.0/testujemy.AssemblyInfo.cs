@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("zad3A")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("testujemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98247abc543fa9a42c2dfbe223de75f29389e718")]
-[assembly: System.Reflection.AssemblyProductAttribute("zad3A")]
-[assembly: System.Reflection.AssemblyTitleAttribute("zad3A")]
+[assembly: System.Reflection.AssemblyProductAttribute("testujemy")]
+[assembly: System.Reflection.AssemblyTitleAttribute("testujemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
 
