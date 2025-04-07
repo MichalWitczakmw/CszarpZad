@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PojazdMechaniczny/1.0.0": {
+        "dependencies": {
+          "Motoryzacja": "1.0.0"
+        },
+        "runtime": {
+          "PojazdMechaniczny.dll": {}
+        }
+      },
+      "Motoryzacja/1.0.0": {
+        "runtime": {
+          "Motoryzacja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PojazdMechaniczny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Motoryzacja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

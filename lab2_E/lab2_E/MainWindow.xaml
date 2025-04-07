@@ -1,0 +1,17 @@
+﻿<Window x:Class="lab2_E.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab2_E"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="radioSum" Content="Suma" HorizontalAlignment="Left" Margin="38,26,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioMinimum" Content="Minimum" HorizontalAlignment="Left" Margin="38,58,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.46,3.943"/>
+        <RadioButton x:Name="radioMaksimum" Content="Maksimum" HorizontalAlignment="Left" Margin="38,92,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.46,3.943"/>
+        <Button x:Name="btnTest5" Content="Test5" HorizontalAlignment="Left" Margin="53,132,0,0" VerticalAlignment="Top" Click="btnTest5_Click"/>
+        <ListBox x:Name="listListaLiczb" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="188,23,421,258"/>
+
+    </Grid>
+</Window>

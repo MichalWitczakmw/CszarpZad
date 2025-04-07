@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\WpfLab4B\Geometria\bin\Debug\net8.0\Geometria.deps.json
+C:\Users\Student\Desktop\WpfLab4B\Geometria\bin\Debug\net8.0\Geometria.dll
+C:\Users\Student\Desktop\WpfLab4B\Geometria\bin\Debug\net8.0\Geometria.pdb
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\Geometria.AssemblyInfo.cs
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\Geometria.dll
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\refint\Geometria.dll
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\Geometria.pdb
+C:\Users\Student\Desktop\WpfLab4B\Geometria\obj\Debug\net8.0\ref\Geometria.dll

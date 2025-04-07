@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtZmienna" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Zmienna" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPotęga" HorizontalAlignment="Left" Margin="10,33,0,0" TextWrapping="Wrap" Text="Potęga" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnOblicz" Content="Oblicz" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="148" Click="btnOblicz_Click" Margin="-4,82,0,0"/>
+        <TextBox x:Name="txtWynik" HorizontalAlignment="Left" Margin="11,57,0,0" TextWrapping="Wrap" Text="Wynik" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.682"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button x:Name="btnTest3" Content="Test3" HorizontalAlignment="Left" Margin="0,138,0,0" VerticalAlignment="Top" Height="41" Width="82" Click="btnTest3_Click"/>
+        <TextBox x:Name="txtSzerokość" HorizontalAlignment="Left" Margin="10,184,0,0" TextWrapping="Wrap" Text="Szerokość" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtWysokość" HorizontalAlignment="Left" Margin="10,217,0,0" TextWrapping="Wrap" Text="Wysokość" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnTest4" Content="Test4" HorizontalAlignment="Left" Margin="10,371,0,0" VerticalAlignment="Top" Height="53" Width="136" Click="btnTrzepak_Click"/>
+        <Canvas x:Name="cnvTrzepak" Margin="151,198,189,10"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\bin\Debug\net8.0\PojazdMechaniczny.deps.json
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\bin\Debug\net8.0\PojazdMechaniczny.dll
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\bin\Debug\net8.0\PojazdMechaniczny.pdb
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\bin\Debug\net8.0\Motoryzacja.dll
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\bin\Debug\net8.0\Motoryzacja.pdb
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.AssemblyInfo.cs
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMe.C2C3D650.Up2Date
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.dll
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\refint\PojazdMechaniczny.dll
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\PojazdMechaniczny.pdb
+C:\Users\Student\Desktop\WpfApp2\PojazdMechaniczny\obj\Debug\net8.0\ref\PojazdMechaniczny.dll

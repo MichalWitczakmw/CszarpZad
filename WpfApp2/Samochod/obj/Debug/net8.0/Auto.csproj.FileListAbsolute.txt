@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\Auto.deps.json
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\Auto.dll
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\Auto.pdb
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\Motoryzacja.dll
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\PojazdMechaniczny.dll
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\PojazdMechaniczny.pdb
+C:\Users\Student\Desktop\WpfApp2\Samochod\bin\Debug\net8.0\Motoryzacja.pdb
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.AssemblyInfo.cs
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.csproj.Up2Date
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.dll
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\refint\Auto.dll
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\Auto.pdb
+C:\Users\Student\Desktop\WpfApp2\Samochod\obj\Debug\net8.0\ref\Auto.dll

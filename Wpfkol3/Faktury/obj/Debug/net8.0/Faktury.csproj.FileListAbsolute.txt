@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\Wpfkol3\Faktury\bin\Debug\net8.0\Faktury.deps.json
+C:\Users\Student\Desktop\Wpfkol3\Faktury\bin\Debug\net8.0\Faktury.dll
+C:\Users\Student\Desktop\Wpfkol3\Faktury\bin\Debug\net8.0\Faktury.pdb
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\Faktury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\Faktury.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\Faktury.AssemblyInfo.cs
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\Faktury.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\Faktury.dll
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\refint\Faktury.dll
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\Faktury.pdb
+C:\Users\Student\Desktop\Wpfkol3\Faktury\obj\Debug\net8.0\ref\Faktury.dll

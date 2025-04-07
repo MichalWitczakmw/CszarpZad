@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wpfkol3/1.0.0": {
+        "dependencies": {
+          "Faktury": "1.0.0"
+        },
+        "runtime": {
+          "Wpfkol3.dll": {}
+        }
+      },
+      "Faktury/1.0.0": {
+        "runtime": {
+          "Faktury.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpfkol3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Faktury/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

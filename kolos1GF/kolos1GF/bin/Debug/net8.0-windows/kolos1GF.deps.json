@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kolos1GF/1.0.0": {
+        "runtime": {
+          "kolos1GF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kolos1GF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpfkol4", "Wpfkol4\Wpfkol4.csproj", "{59F99081-10C2-439B-BE4A-313BDD518B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F99081-10C2-439B-BE4A-313BDD518B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F99081-10C2-439B-BE4A-313BDD518B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F99081-10C2-439B-BE4A-313BDD518B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F99081-10C2-439B-BE4A-313BDD518B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F62139-EC7A-429B-92A5-F9EF1FAD35D5}
+	EndGlobalSection
+EndGlobal

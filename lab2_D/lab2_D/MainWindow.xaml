@@ -1,0 +1,14 @@
+﻿<Window x:Class="lab2_D.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab2_D"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnTest4" Content="Test4" HorizontalAlignment="Left" Margin="77,44,0,0" VerticalAlignment="Top" Click="btnTest4_Click"/>
+        <Canvas x:Name="cvPlotno" HorizontalAlignment="Left" Height="261" Margin="190,64,0,0" VerticalAlignment="Top" Width="410"/>
+
+    </Grid>
+</Window>
