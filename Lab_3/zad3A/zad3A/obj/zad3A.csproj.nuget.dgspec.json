@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj": {}
+    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {
+    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj",
         "projectName": "Motoryzacja",
-        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\obj\\",
+        "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -66,25 +65,89 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj": {
+    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj",
-        "projectName": "zad3A",
-        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\obj\\",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj",
+        "projectName": "testujemy",
+        "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj",
+        "projectName": "zad3A",
+        "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,15 +156,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {
-                "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj"
+              "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {
+                "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj"
+              },
+              "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj": {
+                "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj"
               }
             }
           }
@@ -115,7 +180,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -139,7 +205,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

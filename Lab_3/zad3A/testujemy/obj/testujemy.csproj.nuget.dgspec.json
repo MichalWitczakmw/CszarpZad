@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {}
+    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {
+    "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj",
-        "projectName": "Motoryzacja",
-        "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj",
+        "projectName": "testujemy",
+        "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\testujemy.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\obj\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
