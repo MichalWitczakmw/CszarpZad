@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\bin\Debug\net8.0\Generyki.deps.json
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\bin\Debug\net8.0\Generyki.dll
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\bin\Debug\net8.0\Generyki.pdb
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\Generyki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\Generyki.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\Generyki.AssemblyInfo.cs
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\Generyki.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\Generyki.dll
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\refint\Generyki.dll
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\Generyki.pdb
+C:\Users\Student\Desktop\MW\WpfApp1\Generyki\obj\Debug\net8.0\ref\Generyki.dll

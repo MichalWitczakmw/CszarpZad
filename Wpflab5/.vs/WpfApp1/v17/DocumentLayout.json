@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\mw\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8B15-806C-4583-A1E6-5C83DA88A556}|Generyki\\Generyki.csproj|c:\\users\\student\\desktop\\mw\\wpfapp1\\generyki\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4F8B15-806C-4583-A1E6-5C83DA88A556}|Generyki\\Generyki.csproj|solutionrelative:generyki\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\mw\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8B15-806C-4583-A1E6-5C83DA88A556}|Generyki\\Generyki.csproj|c:\\users\\student\\desktop\\mw\\wpfapp1\\generyki\\rega\u0142.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4F8B15-806C-4583-A1E6-5C83DA88A556}|Generyki\\Generyki.csproj|solutionrelative:generyki\\rega\u0142.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8B15-806C-4583-A1E6-5C83DA88A556}|Generyki\\Generyki.csproj|c:\\users\\student\\desktop\\mw\\wpfapp1\\generyki\\generyczn\u0105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4F8B15-806C-4583-A1E6-5C83DA88A556}|Generyki\\Generyki.csproj|solutionrelative:generyki\\generyczn\u0105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rega\u0142.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\Generyki\\Rega\u0142.cs",
+              "RelativeDocumentMoniker": "Generyki\\Rega\u0142.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\Generyki\\Rega\u0142.cs",
+              "RelativeToolTip": "Generyki\\Rega\u0142.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:39:05.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Generyczn\u0105.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\Generyki\\Generyczn\u0105.cs",
+              "RelativeDocumentMoniker": "Generyki\\Generyczn\u0105.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\Generyki\\Generyczn\u0105.cs",
+              "RelativeToolTip": "Generyki\\Generyczn\u0105.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:13:58.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\Generyki\\Student.cs",
+              "RelativeDocumentMoniker": "Generyki\\Student.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\Generyki\\Student.cs",
+              "RelativeToolTip": "Generyki\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:44:20.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T13:20:17.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MW\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv18AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:20:14.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

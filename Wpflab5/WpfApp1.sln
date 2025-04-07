@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generyki", "Generyki\Generyki.csproj", "{1B4F8B15-806C-4583-A1E6-5C83DA88A556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407D9BD1-5B55-4493-A7E5-4ACFA55DA189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4F8B15-806C-4583-A1E6-5C83DA88A556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4F8B15-806C-4583-A1E6-5C83DA88A556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4F8B15-806C-4583-A1E6-5C83DA88A556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4F8B15-806C-4583-A1E6-5C83DA88A556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C936332-8AF1-4F84-B501-AEEE20F7665C}
+	EndGlobalSection
+EndGlobal
