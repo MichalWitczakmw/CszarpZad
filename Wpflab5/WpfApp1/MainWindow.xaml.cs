@@ -94,6 +94,12 @@ namespace WpfApp1
             regałDouble.WolnaPółka = 2.513;
             regałDouble.WstawNaWolnąPółkę(10.2);
             MessageBox.Show(regałDouble.ToString(), "Regał Double");
+
+            Regał<Student> regałStudent = new Regał<Student>();
+            regałStudent.Półka1 = studenci["1111"];
+            regałStudent.WolnaPółka = studenci["2222"];
+            regałStudent.WstawNaWolnąPółkę(studenci["3333"]);
+            MessageBox.Show(regałStudent.ToString(), "Regał Student");
         }
     }
 }
