@@ -1,25 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\",
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\lab_3\\zad3a\\zad3a\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30677FB2-567B-45FB-B051-2501423127F2}|kgry\\kgry.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\kgry\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30677FB2-567B-45FB-B051-2501423127F2}|kgry\\kgry.csproj|solutionrelative:kgry\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\ClassLibrary1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\zad3a\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|solutionrelative:zad3a\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\lab_3\\zad3a\\motoryzacja\\samoch\u00F3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\zad3a\\zad3a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|solutionrelative:zad3a\\zad3a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15ADEDB-9D75-426E-854D-548A0DB55F7E}|testujemy\\testujemy.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\testujemy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15ADEDB-9D75-426E-854D-548A0DB55F7E}|testujemy\\testujemy.csproj|solutionrelative:testujemy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\motoryzacja\\samoch\u00F3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|solutionrelative:motoryzacja\\samoch\u00F3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\lab_3\\zad3a\\motoryzacja\\pojazdmechaniczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\motoryzacja\\pojazdmechaniczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|solutionrelative:motoryzacja\\pojazdmechaniczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\lab_3\\zad3a\\motoryzacja\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\motoryzacja\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEC3B051-3B55-4632-BFD4-99A6C5B18039}|Motoryzacja\\Motoryzacja.csproj|solutionrelative:motoryzacja\\pojazd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\lab_3\\zad3a\\zad3a\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_3\\zad3a\\zad3a\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5488EC7A-79D7-4918-9B8D-A957BF9315CA}|zad3A\\zad3A.csproj|solutionrelative:zad3a\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -30,105 +46,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\kgry\\Class1.cs",
+              "RelativeDocumentMoniker": "kgry\\Class1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\kgry\\Class1.cs",
+              "RelativeToolTip": "kgry\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:35:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pojazd.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Pojazd.cs",
-              "RelativeDocumentMoniker": "Motoryzacja\\Pojazd.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Pojazd.cs",
-              "RelativeToolTip": "Motoryzacja\\Pojazd.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:16:27.289Z",
+              "WhenOpened": "2025-03-31T08:09:41.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PojazdMechaniczny.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\PojazdMechaniczny.cs",
-              "RelativeDocumentMoniker": "Motoryzacja\\PojazdMechaniczny.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\PojazdMechaniczny.cs",
-              "RelativeToolTip": "Motoryzacja\\PojazdMechaniczny.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zad3A\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zad3A\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T15:30:32.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:19:57.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Samoch\u00F3d.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Samoch\u00F3d.cs",
-              "RelativeDocumentMoniker": "Motoryzacja\\Samoch\u00F3d.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Samoch\u00F3d.cs",
-              "RelativeToolTip": "Motoryzacja\\Samoch\u00F3d.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T15:32:46.733Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "zad3A.csproj",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj",
+              "RelativeDocumentMoniker": "zad3A\\zad3A.csproj",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\zad3A.csproj",
+              "RelativeToolTip": "zad3A\\zad3A.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T07:19:30.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "zad3A\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml",
-              "RelativeToolTip": "zad3A\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-17T14:12:31.295Z",
-              "EditorCaption": ""
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\Class1.cs",
+              "RelativeDocumentMoniker": "testujemy\\Class1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\testujemy\\Class1.cs",
+              "RelativeToolTip": "testujemy\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:06:52.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "zad3A\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml.cs",
-              "RelativeToolTip": "zad3A\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAMwCsAAAA4AAAA",
+              "DocumentIndex": 7,
+              "Title": "Pojazd.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Pojazd.cs",
+              "RelativeDocumentMoniker": "Motoryzacja\\Pojazd.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Pojazd.cs",
+              "RelativeToolTip": "Motoryzacja\\Pojazd.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:12:29.32Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 67,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-03-17T14:16:27.289Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PojazdMechaniczny.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\PojazdMechaniczny.cs",
+              "RelativeDocumentMoniker": "Motoryzacja\\PojazdMechaniczny.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\PojazdMechaniczny.cs",
+              "RelativeToolTip": "Motoryzacja\\PojazdMechaniczny.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:30:32.474Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Samoch\u00F3d.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Samoch\u00F3d.cs",
+              "RelativeDocumentMoniker": "Motoryzacja\\Samoch\u00F3d.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Samoch\u00F3d.cs",
+              "RelativeToolTip": "Motoryzacja\\Samoch\u00F3d.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:32:46.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zad3A\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\zad3A\\MainWindow.xaml",
+              "RelativeToolTip": "zad3A\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T14:12:31.295Z"
             }
           ]
         }

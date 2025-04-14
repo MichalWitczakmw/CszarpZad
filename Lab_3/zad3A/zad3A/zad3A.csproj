@@ -9,6 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary2\ClassLibrary2.csproj" />
+    <ProjectReference Include="..\kgry\kgry.csproj" />
     <ProjectReference Include="..\Motoryzacja\Motoryzacja.csproj" />
     <ProjectReference Include="..\testujemy\testujemy.csproj" />
   </ItemGroup>

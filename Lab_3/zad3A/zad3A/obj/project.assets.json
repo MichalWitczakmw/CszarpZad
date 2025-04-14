@@ -2,6 +2,26 @@
   "version": 3,
   "targets": {
     "net8.0-windows7.0": {
+      "ClassLibrary2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary2.dll": {}
+        }
+      },
+      "kgry/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/kgry.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/kgry.dll": {}
+        }
+      },
       "Motoryzacja/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -25,6 +45,16 @@
     }
   },
   "libraries": {
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary2/ClassLibrary2.csproj",
+      "msbuildProject": "../ClassLibrary2/ClassLibrary2.csproj"
+    },
+    "kgry/1.0.0": {
+      "type": "project",
+      "path": "../kgry/kgry.csproj",
+      "msbuildProject": "../kgry/kgry.csproj"
+    },
     "Motoryzacja/1.0.0": {
       "type": "project",
       "path": "../Motoryzacja/Motoryzacja.csproj",
@@ -38,7 +68,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "ClassLibrary2 >= 1.0.0",
       "Motoryzacja >= 1.0.0",
+      "kgry >= 1.0.0",
       "testujemy >= 1.0.0"
     ]
   },
@@ -74,6 +106,12 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
+            "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\ClassLibrary2\\ClassLibrary2.csproj"
+            },
+            "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\kgry\\kgry.csproj": {
+              "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\kgry\\kgry.csproj"
+            },
             "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj": {
               "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_3\\zad3A\\Motoryzacja\\Motoryzacja.csproj"
             },

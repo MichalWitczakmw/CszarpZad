@@ -10,6 +10,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Motoryzacja;
 using testujemy;
+using ClassLibrary2;
 
 namespace zad3A
 {

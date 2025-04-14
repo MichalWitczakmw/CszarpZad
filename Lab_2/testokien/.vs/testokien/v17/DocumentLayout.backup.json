@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_2\\testokien\\testokien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|solutionrelative:testokien\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_2\\testokien\\testokien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|solutionrelative:testokien\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_2\\testokien\\testokien\\testujemy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|solutionrelative:testokien\\testujemy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|c:\\users\\micha\\documents\\github\\cszarpzad\\lab_2\\testokien\\testokien\\testujemy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510EA9D6-A03A-4005-85AD-5B971D857177}|testokien\\testokien.csproj|solutionrelative:testokien\\testujemy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "testokien\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\MainWindow.xaml",
+              "RelativeToolTip": "testokien\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T07:21:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "testokien\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\MainWindow.xaml.cs",
+              "RelativeToolTip": "testokien\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vx4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:21:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testujemy.xaml",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\testujemy.xaml",
+              "RelativeDocumentMoniker": "testokien\\testujemy.xaml",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\testujemy.xaml",
+              "RelativeToolTip": "testokien\\testujemy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T07:26:42.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testujemy.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\testujemy.xaml.cs",
+              "RelativeDocumentMoniker": "testokien\\testujemy.xaml.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\CszarpZad\\Lab_2\\testokien\\testokien\\testujemy.xaml.cs",
+              "RelativeToolTip": "testokien\\testujemy.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvxwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:33:33.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
