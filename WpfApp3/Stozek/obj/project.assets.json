@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Bryla/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bryla.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bryla.dll": {}
+        }
+      },
+      "WpfApp3/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/WpfApp3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WpfApp3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bryla/1.0.0": {
+      "type": "project",
+      "path": "../Bryla/Bryla.csproj",
+      "msbuildProject": "../Bryla/Bryla.csproj"
+    },
+    "WpfApp3/1.0.0": {
+      "type": "project",
+      "path": "../WpfApp3/WpfApp3.csproj",
+      "msbuildProject": "../WpfApp3/WpfApp3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Bryla >= 1.0.0",
+      "WpfApp3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\Stozek\\Stozek.csproj",
+      "projectName": "Stozek",
+      "projectPath": "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\Stozek\\Stozek.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\Stozek\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\Bryla\\Bryla.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\Bryla\\Bryla.csproj"
+            },
+            "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\WpfApp3\\WpfApp3.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\MW\\WpfApp3\\WpfApp3\\WpfApp3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Projekt WpfApp3 nie jest zgodny z elementem net8.0 (.NETCoreApp,Version=v8.0). Projekt WpfApp3 obsługuje: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "WpfApp3",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\bin\Debug\net8.0\Bryla.deps.json
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\bin\Debug\net8.0\Bryla.dll
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\bin\Debug\net8.0\Bryla.pdb
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\Bryla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\Bryla.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\Bryla.AssemblyInfo.cs
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\Bryla.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\Bryla.dll
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\refint\Bryla.dll
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\Bryla.pdb
+C:\Users\Student\Desktop\MW\WpfApp3\Bryla\obj\Debug\net8.0\ref\Bryla.dll
