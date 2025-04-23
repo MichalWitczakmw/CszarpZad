@@ -1,0 +1,25 @@
+﻿<Window x:Class="Wpflab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpflab7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnMelduj" Content="Melduj" HorizontalAlignment="Left" Margin="494,31,0,0" VerticalAlignment="Top" Height="59" Width="112" Click="btnMelduj_Click"/>
+        <ListBox x:Name="lbPokażLiczby" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,646,255"/>
+        <Button x:Name="btnCzytaj" Content="Czytaj" HorizontalAlignment="Left" Margin="159,204,0,0" VerticalAlignment="Top" Height="46" Width="86" Click="btnCzytaj_Click"/>
+        <Label x:Name="lblNajwiększa" Content="Label" HorizontalAlignment="Left" Margin="23,191,0,0" VerticalAlignment="Top" Width="131"/>
+        <Label x:Name="lblśrednia" Content="Label" HorizontalAlignment="Left" Margin="23,222,0,0" VerticalAlignment="Top" Width="121"/>
+        <Label x:Name="lblNajmniejsza" Content="Label" HorizontalAlignment="Left" Margin="23,253,0,0" VerticalAlignment="Top" Width="121"/>
+        <Button x:Name="btnZapiszXML" Content="Zapisz" HorizontalAlignment="Left" Margin="346,333,0,0" VerticalAlignment="Top" Height="28" Width="54" Click="btnZapiszXML_Click"/>
+        <Button x:Name="btnWyświetlXML" Content="Wyświetl" HorizontalAlignment="Left" Margin="442,333,0,0" VerticalAlignment="Top" Height="28" Width="67" Click="btnWyświetlXML_Click"/>
+        <Button x:Name="btnWczytajMXL" Content="Wczytaj" HorizontalAlignment="Left" Margin="572,333,0,0" VerticalAlignment="Top" Height="28" Width="69" Click="btnWczytajMXL_Click"/>
+        <ListBox x:Name="lbLista" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="307,119,135,108"/>
+        <Button x:Name="btnZapiszXMLBinarnie" Content="zapisz" HorizontalAlignment="Left" Margin="346,383,0,0" VerticalAlignment="Top" Click="btnZapiszXMLBinarnie_Click"/>
+        <Button x:Name="btnWyświetlXMLBinarnie" Content="wyświetl" HorizontalAlignment="Left" Margin="459,383,0,0" VerticalAlignment="Top" Click="btnWyświetlXMLBinarnie_Click"/>
+        <Button x:Name="btnWczytajXMLBinarnie" Content="wczytaj" HorizontalAlignment="Left" Margin="587,383,0,0" VerticalAlignment="Top" Click="btnWczytajXMLBinarnie_Click"/>
+
+    </Grid>
+</Window>
