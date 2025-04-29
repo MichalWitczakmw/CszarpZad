@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="600" Width="600">
+    <StackPanel Margin="10">
+        <WrapPanel>
+            <Button Content="Funkcja1" Click="Funkcja1_Click" Margin="5"/>
+            <Button Content="Funkcja2" Click="Funkcja2_Click" Margin="5"/>
+            <Button Content="Funkcja3" Click="Funkcja3_Click" Margin="5"/>
+        </WrapPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Content="x:"/>
+            <Label x:Name="LabelX" Width="100"/>
+            <Label Content="y:"/>
+            <Label x:Name="LabelY" Width="100"/>
+            <Label Content="f(x,y):"/>
+            <Label x:Name="LabelF" Width="100"/>
+        </StackPanel>
+        <WrapPanel>
+            <Button Content="1. Ilość > 5" Click="Filtr1_Click" Margin="5"/>
+            <Button Content="2. Zlicz kategorię" Click="Filtr2_Click" Margin="5"/>
+            <Button Content="3. Cena > Śr" Click="Filtr3_Click" Margin="5"/>
+            <Button Content="4. Statystyki" Click="Filtr4_Click" Margin="5"/>
+            <Button Content="5. Najdroższy" Click="Filtr5_Click" Margin="5"/>
+            <Button Content="Znajdź Min/Max Cen" Click="TestMinMax_Click" Margin="5"/>
+        </WrapPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <Label Content="Kategoria:"/>
+            <ComboBox x:Name="KategoriaComboBox" Width="150" SelectionChanged="KategoriaComboBox_SelectionChanged" SelectedIndex="1"/>
+        </StackPanel>
+        <ListBox x:Name="ListaWyników" Height="200" Margin="5"/>
+    </StackPanel>
+</Window>

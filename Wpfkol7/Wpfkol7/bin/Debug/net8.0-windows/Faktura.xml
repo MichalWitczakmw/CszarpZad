@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Faktura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumerFaktury>FV/2025/04/001</NumerFaktury>
+  <DataWystawienia>2025-04-29T12:15:40.6528924+02:00</DataWystawienia>
+  <NazwaKlienta>Jan Kowalski</NazwaKlienta>
+  <Pozycje>
+    <PozycjaFaktury>
+      <NazwaProduktu>Monitor</NazwaProduktu>
+      <Ilosc>2</Ilosc>
+      <CenaJednostkowa>899.99</CenaJednostkowa>
+    </PozycjaFaktury>
+    <PozycjaFaktury>
+      <NazwaProduktu>Klawiatura</NazwaProduktu>
+      <Ilosc>1</Ilosc>
+      <CenaJednostkowa>199.99</CenaJednostkowa>
+    </PozycjaFaktury>
+    <PozycjaFaktury>
+      <NazwaProduktu>Myszka</NazwaProduktu>
+      <Ilosc>1</Ilosc>
+      <CenaJednostkowa>99.99</CenaJednostkowa>
+    </PozycjaFaktury>
+  </Pozycje>
+</Faktura>
