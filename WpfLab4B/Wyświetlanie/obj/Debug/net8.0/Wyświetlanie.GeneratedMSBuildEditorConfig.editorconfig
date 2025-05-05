@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Wyświetlanie
-build_property.ProjectDir = C:\Users\Student\Desktop\WpfLab4B\Wyświetlanie\
+build_property.ProjectDir = C:\Users\Student\Documents\GitHub\CszarpZad\WpfLab4B\Wyświetlanie\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
