@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\bin\Debug\net8.0\Geometria.deps.json
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\bin\Debug\net8.0\Geometria.dll
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\bin\Debug\net8.0\Geometria.pdb
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.sourcelink.json
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.dll
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\refint\Geometria.dll
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\Geometria.pdb
+C:\Users\Student\Documents\GitHub\CszarpZad\Geometria\obj\Debug\net8.0\ref\Geometria.dll

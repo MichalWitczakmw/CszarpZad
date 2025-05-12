@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Geometria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFAB875-FF84-4947-AEA4-220A535094E0}|..\\TestDlaGeometri\\TestDlaGeometri.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\testdlageometri\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444DD340-6E81-4611-9E4C-1E092EFA6BAB}|Geometria.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\geometria\\ko\u0142o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444DD340-6E81-4611-9E4C-1E092EFA6BAB}|Geometria.csproj|solutionrelative:ko\u0142o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\TestDlaGeometri\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestDlaGeometri\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\TestDlaGeometri\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestDlaGeometri\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:22:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ko\u0142o.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Geometria\\Ko\u0142o.cs",
+              "RelativeDocumentMoniker": "Ko\u0142o.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Geometria\\Ko\u0142o.cs",
+              "RelativeToolTip": "Ko\u0142o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:14:37.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F151A7-A665-4A2D-AAA0-B1D7839B3FFA}|..\\TestViewModel\\TestViewModel.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\testviewmodel\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F151A7-A665-4A2D-AAA0-B1D7839B3FFA}|..\\TestViewModel\\TestViewModel.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\testviewmodel\\testviewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\wpflab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:wpflab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\model\\studentrepozytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:model\\studentrepozytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\model\\istudentrepozytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:model\\istudentrepozytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\viewmodel\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:viewmodel\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\viewmodel\\relaycommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:viewmodel\\relaycommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\viewmodel\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:viewmodel\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\model\\dbuniversity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:model\\dbuniversity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|c:\\users\\student\\documents\\github\\cszarpzad\\wpflab10\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0A8DF0-02C1-44CB-95F6-BDA9A70C5619}|Wpflab10.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestViewModel",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\TestViewModel\\TestViewModel.csproj",
+              "RelativeDocumentMoniker": "..\\TestViewModel\\TestViewModel.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\TestViewModel\\TestViewModel.csproj",
+              "RelativeToolTip": "..\\TestViewModel\\TestViewModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T14:22:57.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wpflab10",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Wpflab10.csproj",
+              "RelativeDocumentMoniker": "Wpflab10.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Wpflab10.csproj",
+              "RelativeToolTip": "Wpflab10.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T14:22:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\TestViewModel\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestViewModel\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\TestViewModel\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestViewModel\\UnitTest1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwC4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:21:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepozytory.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\IStudentRepozytory.cs",
+              "RelativeDocumentMoniker": "Model\\IStudentRepozytory.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\IStudentRepozytory.cs",
+              "RelativeToolTip": "Model\\IStudentRepozytory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:16:26.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\StudentViewModel.cs",
+              "RelativeToolTip": "ViewModel\\StudentViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:01:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\StudentRecord.cs",
+              "RelativeDocumentMoniker": "ViewModel\\StudentRecord.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\StudentRecord.cs",
+              "RelativeToolTip": "ViewModel\\StudentRecord.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:58:50.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepozytory.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\StudentRepozytory.cs",
+              "RelativeDocumentMoniker": "Model\\StudentRepozytory.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\StudentRepozytory.cs",
+              "RelativeToolTip": "Model\\StudentRepozytory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:53:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:13:43.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:13:38.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:06:02.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommend.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\RelayCommend.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RelayCommend.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\RelayCommend.cs",
+              "RelativeToolTip": "ViewModel\\RelayCommend.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:56:26.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbUniversity.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\DbUniversity.cs",
+              "RelativeDocumentMoniker": "Model\\DbUniversity.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\DbUniversity.cs",
+              "RelativeToolTip": "Model\\DbUniversity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:40:05.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "viewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\viewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\viewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\ViewModel\\viewModel.cs",
+              "RelativeToolTip": "ViewModel\\viewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:55:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CszarpZad\\Wpflab10\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:37:50.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
